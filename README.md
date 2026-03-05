@@ -12,8 +12,8 @@ Tengo 25 años y me enfoco en construir aplicaciones bien estructuradas, con có
 Actualmente estoy profundizando en:
 - ⚛️ React
 - 🌐 Desarrollo Full Stack
-- 🖥️ Servidores y backend
-- 🧩 Buenas prácticas y testing
+- 🖥️ Backend
+- 🧩 Buenas prácticas 
 
 ---
 
