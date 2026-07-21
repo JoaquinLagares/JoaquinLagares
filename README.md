@@ -53,8 +53,7 @@ Actualmente estoy profundizando en:
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TU-USUARIO
-- LinkedIn: (poné tu link si tenés)
+- LinkedIn: www.linkedin.com/in/joaquin-lagares
 
 ---
 
